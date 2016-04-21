@@ -1,4 +1,4 @@
-# brute-force-ansible-vault
+# ansible-vault-brute-force
 A tool to brute force gaining access to an ansible vault
 
 [![Licence](https://img.shields.io/badge/Licence-ISC-blue.svg)](https://opensource.org/licenses/ISC)
